@@ -68,7 +68,7 @@ import "@plasmicapp/react-web/lib/plasmic.css";
 import projectcss from "./plasmic.module.css"; // plasmic-import: m7fbwwwhvmCQvGDQZtaomB/projectcss
 import sty from "./PlasmicSection1.module.css"; // plasmic-import: PE7sou1E2uZ3/css
 
-import Icon5Icon from "./icons/PlasmicIcon__Icon5"; // plasmic-import: 2-GcH9nAq5SD/icon
+import Icon13Icon from "./icons/PlasmicIcon__Icon13"; // plasmic-import: v-KoHu29wYpi/icon
 import Icon4Icon from "./icons/PlasmicIcon__Icon4"; // plasmic-import: Wy9lD-ot5_Ow/icon
 import CircleIcon from "./icons/PlasmicIcon__Circle"; // plasmic-import: qvXrEMvH6wcF/icon
 
@@ -191,7 +191,7 @@ function PlasmicSection1__RenderFunc(props: {
               data-plasmic-override={overrides.bannerImage}
               className={classNames(projectcss.all, sty.bannerImage)}
             >
-              <Icon5Icon
+              <Icon13Icon
                 className={classNames(projectcss.all, sty.svg__zonF)}
                 role={"img"}
               />

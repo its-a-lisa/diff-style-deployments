@@ -175,6 +175,11 @@ function PlasmicHomepage__RenderFunc(props: {
                 globalVariants,
                 "theme",
                 "grayscale"
+              ),
+              [sty.rootglobal_theme_dark]: hasVariant(
+                globalVariants,
+                "theme",
+                "dark"
               )
             }
           )}

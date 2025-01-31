@@ -265,12 +265,8 @@
   --plasmic-token-body: var(--token-Cm5ELzlNWEYR);
   --token-UG0v0Z-4xrPN: 16px;
   --plasmic-token-sm: var(--token-UG0v0Z-4xrPN);
-  --token-alFhmWcVpqmL: #f0f0f0;
-  --plasmic-token-theme-base-lowest: var(--token-alFhmWcVpqmL);
   --token-jpE_43jzRraR: Merriweather;
   --plasmic-token-heading: var(--token-jpE_43jzRraR);
-  --token-ZCiUD5qx58gk: #1b1b1b;
-  --plasmic-token-theme-ink: var(--token-ZCiUD5qx58gk);
 }
 
 .plasmic_tokens:where(.global_theme_dark) {

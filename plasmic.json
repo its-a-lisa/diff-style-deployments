@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -227,7 +227,8 @@
           "componentImportPath": "@plasmicpkgs/react-aria/skinny/registerDialog"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "m7fbwwwhvmCQvGDQZtaomB",
@@ -529,6 +530,46 @@
           "id": "2-GcH9nAq5SD",
           "name": "Icon5Icon",
           "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon5.tsx"
+        },
+        {
+          "id": "p1Zvu-TzrwQj",
+          "name": "Icon6Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon6.tsx"
+        },
+        {
+          "id": "5rR4QdLAxXkY",
+          "name": "Icon7Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon7.tsx"
+        },
+        {
+          "id": "YE3P8D5PBldM",
+          "name": "Icon8Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon8.tsx"
+        },
+        {
+          "id": "7Q0RDoQzEfEJ",
+          "name": "Icon9Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon9.tsx"
+        },
+        {
+          "id": "nneX6esNYMOH",
+          "name": "Icon10Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon10.tsx"
+        },
+        {
+          "id": "89uDH_TObFL5",
+          "name": "Icon11Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon11.tsx"
+        },
+        {
+          "id": "SK_GHPNj4uIa",
+          "name": "Icon12Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon12.tsx"
+        },
+        {
+          "id": "v-KoHu29wYpi",
+          "name": "Icon13Icon",
+          "moduleFilePath": "plasmic/fb_diff_style_deployments/icons/PlasmicIcon__Icon13.tsx"
         }
       ],
       "images": [

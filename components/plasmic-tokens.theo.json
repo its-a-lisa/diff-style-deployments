@@ -1111,26 +1111,6 @@
       }
     },
     {
-      "name": "Theme-Base-Lowest",
-      "type": "color",
-      "value": "#F0F0F0",
-      "category": "color",
-      "meta": {
-        "projectId": "m7fbwwwhvmCQvGDQZtaomB",
-        "id": "alFhmWcVpqmL"
-      }
-    },
-    {
-      "name": "Theme-Ink",
-      "type": "color",
-      "value": "#1B1B1B",
-      "category": "color",
-      "meta": {
-        "projectId": "m7fbwwwhvmCQvGDQZtaomB",
-        "id": "ZCiUD5qx58gk"
-      }
-    },
-    {
       "name": "UnnamedStyleToken",
       "type": "spacing",
       "value": "1px",
