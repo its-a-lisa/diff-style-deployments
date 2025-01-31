@@ -1,0 +1,42 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  grid-column-start: 1 !important;
+  grid-column-end: -1 !important;
+  min-height: 0;
+  padding: 8px;
+}
+.pageLayout:global(.__wab_instance) {
+  position: relative;
+}
+.section3___3H0Yo:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.section4__zSstT:global(.__wab_instance) {
+  position: relative;
+}
+.section5___7CZeC:global(.__wab_instance) {
+  position: relative;
+}
+.section6__eMwy:global(.__wab_instance) {
+  position: relative;
+  top: auto;
+  left: auto;
+}
+.section7__kdwA:global(.__wab_instance) {
+  position: relative;
+}
+.section8__ztddw:global(.__wab_instance) {
+  position: relative;
+}
+.section9__pZilU:global(.__wab_instance) {
+  position: relative;
+}
